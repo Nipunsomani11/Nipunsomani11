@@ -22,6 +22,6 @@
 - Exploring **Data Structures & Algorithms** for competitive coding
 
  ## 📞 **Contact Me**
-- 📧 Email: [your_email@example.com](mailto:nipunsomani027@gmail.com)
+- 📧 Email: [nipunsomani027@gmail.com](mailto:nipunsomani027@gmail.com)
 - 💬 Feel free to reach out to me for any collaboration opportunities!
 
